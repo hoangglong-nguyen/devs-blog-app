@@ -1,13 +1,12 @@
-// please update required information
 const siteMetadata = {
-  title: "Next.js Blog With Tailwind CSS and Contentlayer",
-  author: "CodeBucks",
-  headerTitle: "Next.js Blog",
+  title: "A Developer's Blog",
+  author: "Hoang Long Nguyen",
+  headerTitle: "Developer's Blog",
   description: "A blog created with Next.js, Tailwind.css and contentlayer.",
   language: "en-us",
-  theme: "system", // system, dark or light
-  siteUrl: "https://create-blog-with-nextjs.vercel.app", // your website URL
-  sitealBanner: "/social-banner.png", // add social banner in the public folder
+  theme: "system", 
+  siteUrl: "https://devs-blog-app-hoang-long-nguyens-projects.vercel.app", 
+  sitealBanner: "/social-banner.png", 
   emaLogo: "/logo.png",
   social: "hoangglong.nguyen@gmail.com",
   github: "https://github.com/hoangglong-nguyen",
